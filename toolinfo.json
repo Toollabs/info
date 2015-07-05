@@ -5,7 +5,8 @@
         "description": "Various validators, one of them is W3C's, including samples for API access (CORS allowed from WMF-Wikis).",
         "url": "https://tools.wmflabs.org/validator/",
         "author": "Rainer Rillke",
-        "repository": "https://github.com/Toollabs/validator"
+        "repository": "https://github.com/Toollabs/validator",
+        "keywords": "api, validator"
     },
     {
         "name": "mw-tool-oojs-ui-distro",
@@ -13,7 +14,8 @@
         "description": "A distribution builder for the OOjs UI library's, including a demo page.",
         "url": "https://tools.wmflabs.org/oojs-ui/",
         "author": "Rainer Rillke",
-        "repository": "https://github.com/Toollabs/oojs-ui-distro"
+        "repository": "https://github.com/Toollabs/oojs-ui-distro",
+        "keywords": "distribution, demo, oojs-ui"
     },
     {
         "name": "mw-tool-convert",
@@ -21,7 +23,8 @@
         "description": "Lightwight conversions like PDF → SVG.",
         "url": "https://tools.wmflabs.org/convert/",
         "author": "Rainer Rillke",
-        "repository": "https://github.com/Toollabs/convert"
+        "repository": "https://github.com/Toollabs/convert",
+        "keywords": "convert, svg, pdf, png, api"
     },
     {
         "name": "mw-tool-expose-data",
@@ -29,7 +32,8 @@
         "description": "Exposes data not exposed by MediaWiki API from configuration and the database.",
         "url": "https://tools.wmflabs.org/expose-data/",
         "author": "Rainer Rillke",
-        "repository": "https://github.com/Toollabs/expose-data"
+        "repository": "https://github.com/Toollabs/expose-data",
+        "keywords": "api, database, configuration"
     },
     {
         "name": "mw-tool-octodata",
@@ -37,7 +41,8 @@
         "description": "Database query service and insertion interface for vote data.",
         "url": "https://tools.wmflabs.org/octodata/",
         "author": "Rainer Rillke",
-        "repository": "https://github.com/Toollabs/OctoData"
+        "repository": "https://github.com/Toollabs/OctoData",
+        "keywords": "api, database, polls, votes"
     },
     {
         "name": "mw-tool-stylize",
@@ -45,6 +50,7 @@
         "description": "Code style tools. Coding conventions made easy.",
         "url": "https://tools.wmflabs.org/stylize/",
         "author": "Rainer Rillke",
-        "repository": "https://github.com/Toollabs/stylize"
+        "repository": "https://github.com/Toollabs/stylize",
+        "keywords": "api, coding conventions"
     }
 ]
