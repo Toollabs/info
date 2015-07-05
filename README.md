@@ -1,4 +1,6 @@
 # Toollabs
+[toolinfo.json](https://raw.githubusercontent.com/Toollabs/info/master/toolinfo.json): [![Build Status](https://travis-ci.org/Toollabs/info.svg?branch=master)](https://travis-ci.org/Toollabs/info)
+
 ## What's this organization for?
 
 Toollabs
