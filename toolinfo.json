@@ -1,1 +1,50 @@
-[] 
+[
+    {
+        "name": "mw-tool-validator",
+        "title": "Validator",
+        "description": "Various validators, one of them is W3C's, including samples for API access (CORS allowed from WMF-Wikis).",
+        "url": "https://tools.wmflabs.org/validator/",
+        "author": "Rainer Rillke",
+        "repository": "https://github.com/Toollabs/validator"
+    },
+    {
+        "name": "mw-tool-oojs-ui-distro",
+        "title": "OOjs UI demo and distribution builder",
+        "description": "A distribution builder for the OOjs UI library's, including a demo page.",
+        "url": "https://tools.wmflabs.org/oojs-ui/",
+        "author": "Rainer Rillke",
+        "repository": "https://github.com/Toollabs/oojs-ui-distro"
+    },
+    {
+        "name": "mw-tool-convert",
+        "title": "Light Convert",
+        "description": "Lightwight conversions like PDF → SVG.",
+        "url": "https://tools.wmflabs.org/convert/",
+        "author": "Rainer Rillke",
+        "repository": "https://github.com/Toollabs/convert"
+    },
+    {
+        "name": "mw-tool-expose-data",
+        "title": "Expose Data",
+        "description": "Exposes data not exposed by MediaWiki API from configuration and the database.",
+        "url": "https://tools.wmflabs.org/expose-data/",
+        "author": "Rainer Rillke",
+        "repository": "https://github.com/Toollabs/expose-data"
+    },
+    {
+        "name": "mw-tool-octodata",
+        "title": "Octodata",
+        "description": "Database query service and insertion interface for vote data.",
+        "url": "https://tools.wmflabs.org/octodata/",
+        "author": "Rainer Rillke",
+        "repository": "https://github.com/Toollabs/OctoData"
+    },
+    {
+        "name": "mw-tool-stylize",
+        "title": "Stylize",
+        "description": "Code style tools. Coding conventions made easy.",
+        "url": "https://tools.wmflabs.org/stylize/",
+        "author": "Rainer Rillke",
+        "repository": "https://github.com/Toollabs/stylize"
+    }
+]
