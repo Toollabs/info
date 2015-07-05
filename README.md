@@ -17,3 +17,6 @@ The repo name should match or close to be the tool's name.
 
 ## Adding new members
 You are free to add everyone you trust to the groups you can add them to. If you are not 100% sure, create a new **administrator** group and invite them to this group. They will then be able to transfer their repos to Toollabs.
+
+## Should I push directly to someone's master branch?
+If you don't know them (or you know that they'll feel offended), better don't do this. Either create an own fork and a pull request from that fork or create a new feature-branch and a pull request from this branch.
