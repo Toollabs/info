@@ -1,5 +1,19 @@
-I created that organization because I want to
-- provide a larger number of people access to my tool's code and 
-- to facilitate collaborative editing on tools.
-The repo name should match or close to be the tool's name. I didn't know about https://github.com/tool-labs but it seems to be kinda one-man organization with all members hidden.
+# Toollabs
+## What's this organization for?
 
+Toollabs
+- provides a larger number of people access to tool's code and 
+- facilitates collaborative editing on tools.
+
+## Why Toollabs on GitHub?
+You know you can host your code with [Wikimedia Gerrit](https://www.mediawiki.org/wiki/Gerrit/New_repositories), too? Okay, we choose GitHub because:
+- it usually provides faster access
+- it is not hosted inside the same data center, together with the tool labs instances
+- allows everyone (owners, administrators) to deal with accesss rights and to set up hooks/ CI/ Travis
+- has a nice and fast web interface, a properly working search button and some native clients that work out-of-the-box (SourceTree and GitHub for Windows)
+
+## How should repos be named?
+The repo name should match or close to be the tool's name.
+
+## Adding new members
+You are free to add everyone you trust to the groups you can add them to. If you are not 100% sure, create a new **administrator** group and invite them to this group. They will then be able to transfer their repos to Toollabs.
