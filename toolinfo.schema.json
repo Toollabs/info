@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://jsonschema.net",
+  "type": "array",
+  "minItems": 1,
+  "uniqueItems": false,
+  "additionalItems": true,
+  "items": {
+    "id": "http://jsonschema.net/4",
+    "type": "object",
+    "additionalProperties": true,
+    "properties": {
+      "name": {
+        "id": "http://jsonschema.net/4/name",
+        "type": "string"
+      },
+      "title": {
+        "id": "http://jsonschema.net/4/title",
+        "type": "string"
+      },
+      "description": {
+        "id": "http://jsonschema.net/4/description",
+        "type": "string"
+      },
+      "url": {
+        "id": "http://jsonschema.net/4/url",
+        "type": "string"
+      },
+      "author": {
+        "id": "http://jsonschema.net/4/author",
+        "type": "string"
+      },
+      "repository": {
+        "id": "http://jsonschema.net/4/repository",
+        "type": "string"
+      }
+    },
+    "required": [
+      "name",
+      "title",
+      "description",
+      "url",
+      "author",
+      "repository"
+    ]
+  },
+  "required": [
+    "4"
+  ]
+}
