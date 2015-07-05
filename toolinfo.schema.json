@@ -33,6 +33,10 @@
       "repository": {
         "id": "http://jsonschema.net/4/repository",
         "type": "string"
+      },
+      "keywords": {
+        "id": "http://jsonschema.net/4/keywords",
+        "type": "string"
       }
     },
     "required": [
